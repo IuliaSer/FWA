@@ -1,0 +1,2 @@
+INSERT INTO users(id, FirstName, LastName, phoneNumber, password, email) VALUES (default, 'Iulia', 'Serzhantova', '89009058590', '$2a$10$PXerlmsWc/XSlT9x1EmJh.KfAJi5CZid1O0FvNjApYBXmaqU13Hyi', 'iulia@gmail.com');
+INSERT INTO users(id, FirstName, LastName, phoneNumber, password, email) VALUES (default, 'Masha', 'Ivanova', '89009058570', '$2a$10$PXerlmsWc/XSlT9x1EmJh.KfAJi5CZid1O0FvNjApYBXmaqU13Hyi', 'masha@gmail.com');
